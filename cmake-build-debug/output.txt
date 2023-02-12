@@ -1,0 +1,98 @@
+
+Library Menu;
+1) add_book
+2) search_books_by_prefix
+3) print_who_borrowed_book_by_name
+4) print_library_by_id
+5) print_library_by_name
+6) add_user
+7) user_borrow_book
+8) user_return_book
+9) print_users
+10) Exit
+Enter choice 1-10:
+Enter Book id, Name and Quantity : Enter choice 1-10:
+Enter Book id, Name and Quantity : Enter choice 1-10:
+Enter Book id, Name and Quantity : Enter choice 1-10:
+Enter Book id, Name and Quantity : Enter choice 1-10:
+
+----------Library Books Sorted By Id-------------
+Book math4 100 3
+Book math2 101 5
+Book Algorithms 102 10
+Book math3 103 2
+Enter choice 1-10:
+
+----------Library Books Sorted By Name-------------
+Book Algorithms 102 10
+Book math2 101 5
+Book math3 103 2
+Book math4 100 3
+Enter choice 1-10:
+Invalid Choice
+Enter choice 1-10:
+Enter id and name :Enter choice 1-10:
+Enter id and name :Enter choice 1-10:
+Enter id and name :Enter choice 1-10:
+Enter id and name :Enter choice 1-10:
+
+-----------Users In Library-------------
+user Ahmed With id 1010
+user Mohammed With id 1011
+user Noha With id 1013
+user Kashkoush With id 1014
+Enter choice 1-10:
+Enter Book Name :
+
+---------Books Start with math------------
+math2
+math3
+math4
+Enter choice 1-10:
+Enter Book name and user name :Enter choice 1-10:
+Enter Book name and user name :Invalid Book Name
+Enter choice 1-10:
+Enter Book name and user name :Enter choice 1-10:
+Enter Book name and user name :Enter choice 1-10:
+Enter Book Name :
+-----------Users Who Borrow Algorithms-------------------
+Ahmed
+Kashkoush
+Enter choice 1-10:
+Enter Book Name :
+-----------Users Who Borrow math2-------------------
+Kashkoush
+Enter choice 1-10:
+
+----------Library Books Sorted By Name-------------
+Book Algorithms 102 8
+Book math2 101 4
+Book math3 103 2
+Book math4 100 3
+Enter choice 1-10:
+Enter Book Name and user Name: Enter choice 1-10:
+
+----------Library Books Sorted By Name-------------
+Book Algorithms 102 9
+Book math2 101 4
+Book math3 103 2
+Book math4 100 3
+Enter choice 1-10:
+Enter Book Name and user Name: This user don't borrow that book
+Enter choice 1-10:
+Enter Book Name and user Name: Invalid Book Name
+Enter choice 1-10:
+
+----------Library Books Sorted By Name-------------
+Book Algorithms 102 9
+Book math2 101 4
+Book math3 103 2
+Book math4 100 3
+Enter choice 1-10:
+
+-----------Users In Library-------------
+user Ahmed With id 1010
+user Mohammed With id 1011
+user Noha With id 1013
+user Kashkoush With id 1014
+Enter choice 1-10:

@@ -1,0 +1,48 @@
+1
+100 math4 3
+1
+101 math2 5
+1
+103 math3 2
+1
+102 Algorithms 10
+4
+5
+20
+6
+1010 Ahmed
+6
+1011 Mohammed
+6
+1013 Noha
+6
+1014 Kashkoush
+9
+2
+math
+7
+math2 Kashkoush
+7
+math1 Noha
+7
+Algorithms Ahmed
+7
+Algorithms Kashkoush
+3
+Algorithms
+3
+math2
+5
+8
+Algorithms Kashkoush
+5
+8
+math2      Ahmed
+8
+math1   Noha
+5
+9
+
+10
+
+
